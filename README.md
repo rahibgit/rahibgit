@@ -5,10 +5,10 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=rahibgithub&style=flat&color=orange)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/rahibgithub)
+
 
 </div>
 
