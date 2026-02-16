@@ -5,9 +5,12 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=rahibgithub&style=flat&color=orange)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/rahibgithub)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/967775964574)
+
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Raheeb_Info)
+
 
 
 </div>
@@ -35,7 +38,6 @@
 
 ### Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat)
 
 ### Tools
@@ -52,7 +54,7 @@ class Raheeb extends Developer {
   final skills = {
     "mobile": ["Flutter", "Dart"],
     "web": ["HTML", "CSS", "JavaScript"],
-    "database": ["Firebase", "SQLite", "SQL Server"],
+    "database": ["Firebase", "SQL Server"],
     "tools": ["Git", "VS Code", "Figma"]
   };
 
