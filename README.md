@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi, I'm Raheeb 👋</h1>
-<h3>Flutter & Web Developer from Yemen 🇾🇪</h3>
+<h3>Flutter Developer 🇾🇪</h3>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" />
 
@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 - 👨‍💻 I'm **Raheeb**, IT student & developer.
-- 💙 Specialized in **Flutter & Web Development**.
+- 💙 Specialized in **Flutter Development**.
 - 🌱 Currently improving my skills in **Mobile Apps & Backend**.
 - 🎯 Goal: Build real-world apps and become a professional software engineer.
 - 🌍 Based in **Yemen**.
@@ -32,9 +32,6 @@
 ### Mobile & Web
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
 
 ### Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)
