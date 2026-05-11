@@ -50,7 +50,6 @@
 class Raheeb extends Developer {
   final skills = {
     "mobile": ["Flutter", "Dart"],
-    "web": ["HTML", "CSS", "JavaScript"],
     "database": ["Firebase", "SQL Server"],
     "tools": ["Git", "VS Code", "Figma"]
   };
